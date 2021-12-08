@@ -1,4 +1,4 @@
-![I'm a front-end developer from Bangladesh!](https://scontent.fdac3-1.fna.fbcdn.net/v/t1.6435-9/s526x395/89775083_112585763688819_6916932345014517760_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGVwIV9t_4eoDYluB4-uFYX8LwlfMVjq6jwvCV8xWOrqC8GNaEIpumyxvz-J_P7DldPk0u0WC_xHd-LhHgiDe0R&_nc_ohc=w7EquMprIC4AX_LYjWG&_nc_ht=scontent.fdac3-1.fna&oh=cf34ad955c85f9486e4ea962fd5bb6ba&oe=61D51EA5)
+
 ### Hello, I am Utpal Chondra Sarker 🤗
 #### I'm a front-end developer from Bangladesh!
 
